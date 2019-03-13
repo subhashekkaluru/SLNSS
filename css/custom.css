@@ -1,0 +1,35 @@
+/*
+
+Template: Sofbox - Responsive Software Landing Page
+Author: iqonicthemes.in
+Version: 3.0
+Design and Developed by: iqonicthemes.in
+
+NOTE: This is main stylesheet of template, This file contains the styling for the actual Template. Please do not change anything here! write in a custom.css file if required!
+
+*/
+
+.iq-works-box {
+    margin-right: 10px !important;
+}
+
+.fa {
+    line-height: 1.9;
+}
+
+.info-share li a {
+    display: block;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    color: #8cc640;
+    background: transparent;
+    border: 1px solid #8cc640;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.tech img {
+    width: 93%;
+}
